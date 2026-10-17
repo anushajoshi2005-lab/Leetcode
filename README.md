@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anushajoshi2005-lab/Leetcode/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/anushajoshi2005-lab/Leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/anushajoshi2005-lab/Leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/anushajoshi2005-lab/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
