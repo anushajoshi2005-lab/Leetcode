@@ -38,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/anushajoshi2005-lab/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anushajoshi2005-lab/Leetcode/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/anushajoshi2005-lab/Leetcode/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anushajoshi2005-lab/Leetcode/tree/master/0242-valid-anagram) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/anushajoshi2005-lab/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
